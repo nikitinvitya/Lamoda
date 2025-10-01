@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
+}
+
+.container label {
+    font-size: 16pt;
+}
+
+.container input {
+    width: 20px;
+    height: 20px;
+}
+

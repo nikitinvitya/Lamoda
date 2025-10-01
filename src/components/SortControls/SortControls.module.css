@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    gap: 20px
+}
+
+.container button {
+    width: 322px;
+    height: 50px;
+    background-color: #fff;
+    border: 1px solid #000;
+    border-radius: 1rem;
+    font-size: 14pt;
+  cursor: pointer;
+}
+
+.container button:active, .container button:focus {
+  background-color: #c9c9c9;
+}
